@@ -1,0 +1,15 @@
+D:\RayanBours\RayanBours.Services\obj\Debug\net7.0\RayanBours.Services.csproj.AssemblyReference.cache
+D:\RayanBours\RayanBours.Services\obj\Debug\net7.0\RayanBours.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\RayanBours\RayanBours.Services\obj\Debug\net7.0\RayanBours.Services.AssemblyInfoInputs.cache
+D:\RayanBours\RayanBours.Services\obj\Debug\net7.0\RayanBours.Services.AssemblyInfo.cs
+D:\RayanBours\RayanBours.Services\obj\Debug\net7.0\RayanBours.Services.csproj.CoreCompileInputs.cache
+D:\RayanBours\RayanBours.Services\bin\Debug\net7.0\RayanBours.Services.deps.json
+D:\RayanBours\RayanBours.Services\bin\Debug\net7.0\RayanBours.Services.dll
+D:\RayanBours\RayanBours.Services\bin\Debug\net7.0\RayanBours.Services.pdb
+D:\RayanBours\RayanBours.Services\bin\Debug\net7.0\RayanBours.Domain.dll
+D:\RayanBours\RayanBours.Services\bin\Debug\net7.0\RayanBours.Domain.pdb
+D:\RayanBours\RayanBours.Services\obj\Debug\net7.0\RayanBours.Services.csproj.CopyComplete
+D:\RayanBours\RayanBours.Services\obj\Debug\net7.0\RayanBours.Services.dll
+D:\RayanBours\RayanBours.Services\obj\Debug\net7.0\refint\RayanBours.Services.dll
+D:\RayanBours\RayanBours.Services\obj\Debug\net7.0\RayanBours.Services.pdb
+D:\RayanBours\RayanBours.Services\obj\Debug\net7.0\ref\RayanBours.Services.dll
